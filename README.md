@@ -3,7 +3,10 @@
 ## Overview
 SoC-Pong-Showdown is a fun two-player Pong game implemented using software/hardware co-design on an FPGA. This project leverages VHDL for hardware-specific functionality and real-time constraints, while using C for the game controller and application logic. The game features push button controls and VGA display output, providing a hands-on experience with System-on-Chip (SoC) design and embedded systems.
 
-![vgapong drawio (1)](https://github.com/cameronnthomas/Pong-on-SoC/assets/173108159/ac57424a-8266-43ca-92f7-7b9ae6b13c01)
+![image](https://github.com/cameronnthomas/Pong-on-SoC/assets/173108159/6e5f5694-c0d9-4ffb-8a1a-55591eb51112)
+
+![image](https://github.com/cameronnthomas/Pong-on-SoC/assets/173108159/979b0280-c621-458c-b1ed-11c2afe9e66f)
+
 
 ## Features
 - **Two-Player Pong Game**: Play against a friend using push button controls to move your paddles up and down.
